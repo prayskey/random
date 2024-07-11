@@ -28,3 +28,18 @@ function displayResult(result){
 }
 
 */
+
+const text = "obo";
+
+console.log(isPalindrome(text))
+
+
+function isPalindrome(str){
+  reverseStr = str.split("").reverse().join().replaceAll(",", "");
+
+  if(reverseStr === str){
+    return true;
+  }else {
+    return false;
+  }
+}
