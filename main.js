@@ -1,6 +1,6 @@
 let text = "abd-c*h&e-fg";
 
-reversedString(text);
+displayResult(reversedString(text));
 
 function reversedString(str){
 
@@ -19,4 +19,8 @@ for(let i = 0; i < str.length; i++){
   }
 
   return result;
+}
+
+function displayResult(result){
+  console.log(result)
 }
