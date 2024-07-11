@@ -27,7 +27,6 @@ function displayResult(result){
   console.log(result)
 }
 
-*/
 
 const text = "obo";
 
@@ -43,3 +42,14 @@ function isPalindrome(str){
     return false;
   }
 }
+
+*/
+
+const person = {
+  firstName:"Prayskey",
+  display: (place)=>{
+    console.log(`Your name is ${this.firstName} and you live in ${place}`)
+  }
+}
+
+person.display("NetherLand")
