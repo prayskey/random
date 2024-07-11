@@ -1,4 +1,4 @@
-let text = "abd-che-fg";
+let text = "abd-c*h&e-fg";
 
 reversedString(text);
 
@@ -17,6 +17,6 @@ for(let i = 0; i < str.length; i++){
     result += str[i] //put the original string if character is NOT alphabet
   }
   }
-  
+
   return result;
 }
