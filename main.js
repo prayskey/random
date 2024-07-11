@@ -1,3 +1,5 @@
+/*
+
 let text = "abd-c*h&e-fg";
 
 displayResult(reversedString(text));
@@ -24,3 +26,5 @@ for(let i = 0; i < str.length; i++){
 function displayResult(result){
   console.log(result)
 }
+
+*/
