@@ -54,3 +54,19 @@ function longestSubstring(str){
     
   }
 }
+
+console.log(factorial(14))
+
+function factorial(n){
+
+  let result = 1;
+
+  if(n !== 0){
+    for(let i = n; i >= 1; i--){
+    result *= i;
+  }
+  }else {
+    result = 1;
+  }
+  return result;
+}
