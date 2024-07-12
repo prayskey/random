@@ -45,11 +45,3 @@ function isPalindrome(str){
 
 */
 
-const person = {
-  firstName:"Prayskey",
-  display: (place)=>{
-    console.log(`Your name is ${this.firstName} and you live in ${place}`)
-  }
-}
-
-person.display("NetherLand")
