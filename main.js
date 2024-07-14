@@ -55,8 +55,10 @@ function longestSubstring(str){
   }
 }
 
-console.log(factorial(14))
 
+
+
+/*
 function factorial(n){
 
   let result = 1;
@@ -70,3 +72,29 @@ function factorial(n){
   }
   return result;
 }
+*/
+
+function factorial(n) {
+  if(n === 0){
+    return 1
+  }else{
+    return n * factorial(n - 1)
+  }
+}
+
+
+let sum = -Infinity;
+
+console.log(new Date())
+
+
+console.log(factorial(4))
+
+window.addEventListener("load", setTimeout(()=>{
+  document.body.style.backgroundColor = 'green'
+}, 5000))
+
+
+document.querySelector(".click").addEventListener("click", ()=>{
+  document.body.style.backgroundColor = 'white'
+})
