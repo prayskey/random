@@ -209,7 +209,6 @@ if(myArr.some(element =>{
   console.log("It works")
 }      
 
-*/
 
 const myArr =  new Array("Banana", "Pine-apple", "Orange", "Melon")
 
@@ -240,8 +239,18 @@ const add = (function () {
  
 })();
 
-add();
-add();
-add();
+
+*/
 
 
+let text = "How are you doing today"
+
+// /e/.test("The best things in life are free!")
+
+
+const input = document.querySelector(".input-element")
+document.querySelector(".check").onclick = function(){
+  if(!input.checkValidity()){
+    document.querySelector(".HTMLtext").innerHTML = input.validationMessage
+  }
+}
