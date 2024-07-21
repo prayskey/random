@@ -566,7 +566,9 @@ function containsDuplicate(nums) {
 Explanation:
 Convert the array to a Set.
 Compare the size of the Set with the original array length
-*/
+
+
+
 
 ///////////////////////////////////////////////////////
 //Re-arrange the alphabets in a string living the special character in their original positions
@@ -619,3 +621,8 @@ root.left = new TreeNode(2);
 root.right = new TreeNode(3, new TreeNode(4), new TreeNode(5), new TreeNode(6));
 
 console.log(maxDepth(root))
+
+
+*/
+
+
