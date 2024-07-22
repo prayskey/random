@@ -636,7 +636,7 @@ function fibonacci(n){
   return dp[n];
 }
 
-console.log(fibonacci(10))
+//console.log(fibonacci(10))
 
 
 
@@ -684,4 +684,25 @@ const root = new TreeNode(3);
 root.left = new TreeNode(20);
 root.right = new TreeNode(9, new TreeNode(7), new TreeNode(15));
 
-console.log(maxDepth(root))
+//console.log(maxDepth(root))
+
+/////////////////////////////////////////////////////////////////////
+//Program to find the first unique character in a set of data
+
+function firstUniqChar(s){
+  let charCount = {};
+
+  for(let char of s){
+    charCount[char] = (charCount[char] || 0) + 1;
+    console.log(charCount[char])
+  }
+  
+  for(let i = 0; i < s.length; i++){
+    if(charCount[s[i]] === 1){
+      return s[i]
+    }
+    return -1
+  }
+}
+
+console.log(firstUniqChar("finnaly"))
