@@ -704,3 +704,51 @@ function firstUniqChar(s){
       return -1
 }
 
+//////////////////////////////////////////////////////////////////////
+// Rotate the array to the right by k steps, where k is non-negative
+
+let nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+function rotateArr(arr, k){
+  let n = arr.length;
+
+  k = k % n;
+
+  if(k === 0) return arr;
+
+  let beginningPortion = arr.slice(n - k)
+
+  let endingPortion = arr.slice(0,n - k)
+  
+  return beginningPortion.concat(...endingPortion);
+  
+}
+
+
+
+/////////////////////////////////////////////////////
+//
+
+function twoSumLessThank(A, k){
+  let sums = []
+  let n = A.length;
+
+  for(let i = 0; i < n; i++){
+    for(let j = 0; j < n; j++){
+
+      let S = A[i] + A[j]
+
+      if(S <= k && i < j) sums.push(S);
+    }
+  }
+  if(sums.length === 0) return -1
+  else{
+    return Math.max(...sums)
+  }
+}
+
+
+let A = [34, 23, 1, 24, 75, 33, 54, 8, 32];
+let k = 60;
+
+console.log(twoSumLessThank(A, k))
