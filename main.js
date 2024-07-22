@@ -566,7 +566,7 @@ function containsDuplicate(nums) {
 Explanation:
 Convert the array to a Set.
 Compare the size of the Set with the original array length
-
+ 
 
 
 
@@ -622,7 +622,66 @@ root.right = new TreeNode(3, new TreeNode(4), new TreeNode(5), new TreeNode(6));
 
 console.log(maxDepth(root))
 
-
 */
 
+//////////////////////////////////////////////////
+//Fibonacci challenge for coding interview
 
+function fibonacci(n){
+  let dp = [0, 1];
+
+  for(let i = 2; i <= n; i++){
+    dp[i] = dp[i - 1] + dp[i - 2];
+  }
+  return dp[n];
+}
+
+console.log(fibonacci(10))
+
+
+
+///////////////////////////////////////////////////
+//Find duplicates
+
+//console.log(findDuplicate([2,1,2,1,2,5,4,8,7]))
+
+function findDuplicate(arr){
+  let seen = new Set();
+  let duplicate = new Set();
+
+  for(let i = 0; i < arr.length; i++){
+    if(seen.has(arr[i])){
+      duplicate.add(arr[i]);
+      
+    }else{
+      seen.add(arr[i])
+    }
+  }
+  return [...duplicate]
+}
+
+
+
+/////////////////////////////////////////////////////
+//Binary tree problem
+
+class TreeNode {
+  constructor(val, left = null, right = null){
+    this.val = val;
+    this.left = left;
+    this.right = right;
+  }
+}
+
+function maxDepth(root){
+  if(root === null) return 0;
+  else{
+    return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1
+  }
+}
+
+const root = new TreeNode(3);
+root.left = new TreeNode(20);
+root.right = new TreeNode(9, new TreeNode(7), new TreeNode(15));
+
+console.log(maxDepth(root))
