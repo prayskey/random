@@ -1,0 +1,4 @@
+my_arr = [12, 34, 56, 78, 90, 87],
+
+for i in range(len(my_arr)):
+  print(my_arr[i])

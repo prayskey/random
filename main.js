@@ -622,7 +622,6 @@ root.right = new TreeNode(3, new TreeNode(4), new TreeNode(5), new TreeNode(6));
 
 console.log(maxDepth(root))
 
-*/
 
 //////////////////////////////////////////////////
 //Fibonacci challenge for coding interview
@@ -751,4 +750,234 @@ function twoSumLessThank(A, k){
 let A = [34, 23, 1, 24, 75, 33, 54, 8, 32];
 let k = 60;
 
-console.log(twoSumLessThank(A, k))
+//console.log(twoSumLessThank(A, k))
+
+///////////////////////////////////////////////////////////
+//Fibonacci practice program
+
+function fibonacci(maxNum) {
+  let fibo = [0, 1];
+
+  for(let i = 2; i <= maxNum; i++){
+    fibo.push(fibo[i - 1] + fibo[i - 2])
+  }
+
+  console.log(fibo)
+}
+
+//fibonacci(19)
+
+
+/////////////////////////////////////////////////////////////////////////////
+//function to return the maximum number in a set of distribution
+
+function findMax(arr) {
+  let min = -Infinity;
+
+  for(let i = 0; i < arr.length; i++){
+    while(arr[i] > min){
+      min = arr[i]
+    }
+  }
+  return min;
+}
+
+//console.log(findMax([23, 33, 48, 30, 39, 40, 28, 10, 38]))
+
+
+////////////////////////////////////////////////////////////
+//bubble sort algorithm
+
+//console.log(bubbleSort([23, 33, 48, 30, 39, 40, 28, 10, 38]))
+function bubbleSort(arr){
+  let n = arr.length;
+
+  for(let i = 0; i < n - 1; i++){
+    for(let j = 0; j < n - i - 1; j++){
+
+      if(arr[j] > arr[j + 1]){
+        let temp = arr[j];
+        arr[j] = arr[j + 1];
+        arr[j + 1] = temp;
+      }
+    }
+  }
+  return arr;
+}
+
+///////////////////////////////////////////////////
+//selection sort algorithm
+
+function selectionSort(arr) {
+  let n = arr.length;
+
+  for(let i = 0; i < n; i++){
+    let minIndex = i;
+    for(let j = i + 1; j < n; j++){
+      if(arr[j] < arr[i]) minIndex = j;
+    }
+    let temp = arr[i];
+    arr[i] = arr[minIndex];
+    arr[minIndex] = temp;
+  }
+  return arr;
+}
+
+//console.log(selectionSort([23, 33, 48, 30, 39, 40, 28, 10, 38]))
+
+////////////////////////////////////////////////////////////////////////
+//Insertion sort algorithm
+
+function insertionSort(arr){
+  let n = arr.length;
+
+  for(let i = 1; i < n; i++){
+    for(let j = i + 1; j < n; j++){
+
+    }
+  }
+}
+
+
+////////////////////////////////////////////////////////////
+
+
+let head = new ListNode(15, new ListNode(23));
+
+head.next.next = new ListNode(23, new ListNode(48), head)
+head.next.next.next = new ListNode(55)
+
+//console.log(head)
+
+////////////////////////////////////////////
+//Transverse and print the data of each node in a linked list
+
+
+
+class Node {
+    constructor(data) {
+        this.data = data;
+        this.next = null;
+    }
+}
+
+function traverseAndPrint(head) {
+  let currentNode = head;
+  let output = "";
+  while (currentNode) {
+      output += currentNode.data + " -> ";
+      currentNode = currentNode.next;
+  }
+  output += "null";
+  console.log(output);
+}
+
+
+
+
+traverseAndPrint(node1);
+///////////////////////////////////////////////////////////////////
+//Transverse through the Nodes in a linked list and returns the lowest
+
+class Node{
+  constructor(data){
+    this.data = data;
+    this.next = null;
+  }
+}
+
+function traverseAndPrint(head){
+  let minVal = head.data;
+  let currentNode = head;
+
+  while(currentNode){
+    if(currentNode.data < minVal) minVal = currentNode.data
+    currentNode = currentNode.next
+  }
+  console.log(minVal)
+}
+
+const node1 = new Node(7);
+const node2 = new Node(11);
+const node3 = new Node(3);
+const node4 = new Node(2);
+const node5 = new Node(9);
+
+node1.next = node2;
+node2.next = node3;
+node3.next = node4;
+node4.next = node5;
+
+traverseAndPrint(node1);
+
+*/
+
+/////////////////////////////////////////////////////////////
+//
+
+/*
+
+const my_arr = [12, 34, 56, 78, 90, 87];
+
+for(let i in my_arr){
+  for(let j = 0; j < my_arr.length; j++){
+      console.log(my_arr[j])
+  }}
+
+
+*/
+
+
+
+
+
+function transverseAndPrint(head) {
+  let currentNode = head;
+  let output = "";
+
+  while(currentNode){
+    output += `${currentNode.data} -> `;
+    currentNode = currentNode.next;
+  }
+  output += "null";
+
+  console.log(output)
+}
+
+
+
+class ListNode{
+  constructor(data){
+    this.data = data;
+    this.next = null;
+  }
+}
+
+
+const node1 = new ListNode(7);
+const node2 = new ListNode(11);
+const node3 = new ListNode(3);
+const node4 = new ListNode(2);
+const node5 = new ListNode(9);
+
+node1.next = node2;
+node2.next = node3;
+node3.next = node4;
+node4.next = node5;
+
+
+//transverseAndPrint(node1)
+lesserData(node1, 8)
+
+function lesserData(head, num) {
+  let currentNode = head;
+  let qualified = new Set()
+
+  while(currentNode) {
+    if(currentNode.data < num) qualified.add(currentNode.data)
+    
+    currentNode = currentNode.next;
+  }
+
+  console.log([...qualified].sort());
+}
