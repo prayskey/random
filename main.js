@@ -925,10 +925,6 @@ for(let i in my_arr){
   }}
 
 
-*/
-
-
-
 
 
 function transverseAndPrint(head) {
@@ -981,3 +977,30 @@ function lesserData(head, num) {
 
   console.log([...qualified].sort());
 }
+
+
+*/
+
+
+class TreeNode {
+  constructor(data){
+    this.data = data;
+    this.right = null;
+    this.left = null;
+  }
+}
+
+function max_depth(root){
+  //Return 0 is the root node is null
+  if(root === null){
+    return 0;
+  }else {
+    //Recursively find the maximum depth of the of both the left and the right node
+    let left_depth = maxDepth(root.left);
+    let right_depth = maxDepth(root.right);
+
+    return Math.max(left_depth, right_depth) + 1;
+  }
+}
+
+
