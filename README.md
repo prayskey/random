@@ -1,0 +1,1 @@
+This file is created for the sake of the practical aspect of the git tutorial by Hitesh Choudray
