@@ -1003,3 +1003,6 @@ function max_depth(root){
   }
 }
 
+(function(){
+  if(true)console.log("True")
+})
