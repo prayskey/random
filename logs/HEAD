@@ -1,0 +1,103 @@
+0000000000000000000000000000000000000000 fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720724337 +0100	commit (initial): add files to code base
+fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 57d07cd7a07daff36157f35f653b6919d5c9c665 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720724467 +0100	commit: modify main.js to return result and not to display it on the console
+57d07cd7a07daff36157f35f653b6919d5c9c665 0000000000000000000000000000000000000000 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720724512 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 57d07cd7a07daff36157f35f653b6919d5c9c665 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720724512 +0100	Branch: renamed refs/heads/master to refs/heads/main
+57d07cd7a07daff36157f35f653b6919d5c9c665 635e5bb3c987a2605c22e8d3d6092053b81bbbb8 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720724845 +0100	commit: modify text input in main.js file
+635e5bb3c987a2605c22e8d3d6092053b81bbbb8 f089866c53c102c7ce1c8bea582addca01aa9de4 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720725081 +0100	commit: create function to display result
+f089866c53c102c7ce1c8bea582addca01aa9de4 f089866c53c102c7ce1c8bea582addca01aa9de4 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720725159 +0100	checkout: moving from main to nav-bar
+f089866c53c102c7ce1c8bea582addca01aa9de4 fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720725218 +0100	checkout: moving from nav-bar to fdc0ba4
+fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 f089866c53c102c7ce1c8bea582addca01aa9de4 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720725271 +0100	checkout: moving from fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 to main
+f089866c53c102c7ce1c8bea582addca01aa9de4 a56ca63501adb44a434ea47a3424e197fef42fde Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720736694 +0100	commit: make code in main js file to be comment
+a56ca63501adb44a434ea47a3424e197fef42fde 8c5930130693ebcc82b1f4c56049b08591aff9ac Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720738573 +0100	commit: add link to index file
+8c5930130693ebcc82b1f4c56049b08591aff9ac c16ff251a4b66497f87180b2475511ee99780e9d Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720738615 +0100	commit: create function to check if an input string is palindrome
+c16ff251a4b66497f87180b2475511ee99780e9d 910ed48bba732d1f015968ecdbde18d01ec8b420 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720739403 +0100	commit: add obj to main js file
+910ed48bba732d1f015968ecdbde18d01ec8b420 eba4c52eb6cb708b02404b698714e3e01f63800e Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720742869 +0100	commit: modify main file.
+eba4c52eb6cb708b02404b698714e3e01f63800e 4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777360 +0100	commit: create function to check a string input for the longest substring
+4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777389 +0100	checkout: moving from main to fdc0ba4
+fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777461 +0100	checkout: moving from fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 to main
+4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777478 +0100	checkout: moving from main to fdc0ba4
+fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777494 +0100	checkout: moving from fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 to main
+4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777507 +0100	checkout: moving from main to fdc0ba4
+fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720777512 +0100	checkout: moving from fdc0ba49ebf3ea0a08a7b9932fa0a6e02d80c574 to main
+4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d c75720854f77a2c0f01a00a0f5769e0252cadf1d Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720799776 +0100	commit: create function to calculate the factorial of a number
+c75720854f77a2c0f01a00a0f5769e0252cadf1d e9c134fd7c4706db4fea90c174dbf66178802c86 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720799969 +0100	commit: create folder to pack turing practice pic
+e9c134fd7c4706db4fea90c174dbf66178802c86 88cfc5fd1049b99ad9b3726c5c558e02ae107a42 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720954471 +0100	commit: remove link to google.com and add a button
+88cfc5fd1049b99ad9b3726c5c558e02ae107a42 472f2ee9ee4ac8c4e3419455a4e16a84676bbc69 Prayskey Nnaemeka Ogbonna <prayskeyo@gmail.com> 1720954605 +0100	commit: create a function to check for the factorial of an input
+472f2ee9ee4ac8c4e3419455a4e16a84676bbc69 5bdab97b22fcee39cf7c9d76709cfc9b0f71cd04 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144669 +0100	commit: modify index and main file in code base
+5bdab97b22fcee39cf7c9d76709cfc9b0f71cd04 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144722 +0100	commit: add vscode file to code base
+e8273efb7f435d3f960f09d20e7f90b29e045c70 0000000000000000000000000000000000000000 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144780 +0100	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144780 +0100	Branch: renamed refs/heads/main to refs/heads/master
+e8273efb7f435d3f960f09d20e7f90b29e045c70 0000000000000000000000000000000000000000 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144803 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144803 +0100	Branch: renamed refs/heads/master to refs/heads/main
+e8273efb7f435d3f960f09d20e7f90b29e045c70 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144845 +0100	checkout: moving from main to emergencyfile
+e8273efb7f435d3f960f09d20e7f90b29e045c70 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144871 +0100	checkout: moving from emergencyfile to headerfile
+e8273efb7f435d3f960f09d20e7f90b29e045c70 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144920 +0100	checkout: moving from headerfile to main
+e8273efb7f435d3f960f09d20e7f90b29e045c70 f089866c53c102c7ce1c8bea582addca01aa9de4 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144938 +0100	checkout: moving from main to nav-bar
+f089866c53c102c7ce1c8bea582addca01aa9de4 e8273efb7f435d3f960f09d20e7f90b29e045c70 Prayskey Ogbonna <prayskeyo@gmail.com> 1721144989 +0100	checkout: moving from nav-bar to main
+e8273efb7f435d3f960f09d20e7f90b29e045c70 c67b43359773b77a3d690d5f5a01c64c306ab56a Prayskey Ogbonna <prayskeyo@gmail.com> 1721158401 +0100	commit: add files to code base
+c67b43359773b77a3d690d5f5a01c64c306ab56a b33795d1f1292eb969ece0d079fe24a9ac4e0f87 Prayskey Ogbonna <prayskeyo@gmail.com> 1721592356 +0100	commit: add files to code base
+b33795d1f1292eb969ece0d079fe24a9ac4e0f87 c1907bb7e61b6a8ab184f059e3a963abdeffaf24 Prayskey Ogbonna <prayskeyo@gmail.com> 1721595262 +0100	commit: Make all code in the main script to be a comment
+c1907bb7e61b6a8ab184f059e3a963abdeffaf24 6b601a1fed506108588589c1496ca810581f8613 Prayskey Ogbonna <prayskeyo@gmail.com> 1721619368 +0100	commit: program to find the max depth of the node in a binary tree
+6b601a1fed506108588589c1496ca810581f8613 9c8b9432958816a1c9b1c880e7b4fc0dd40f4684 Prayskey Ogbonna <prayskeyo@gmail.com> 1721619811 +0100	commit: Delete vscode - profile code
+9c8b9432958816a1c9b1c880e7b4fc0dd40f4684 4063d518ecc312b93497747477eba596d6b260bb Prayskey Ogbonna <prayskeyo@gmail.com> 1721619870 +0100	commit: move code for first unique character to main js file
+4063d518ecc312b93497747477eba596d6b260bb 1c0148fabe4f067fe2b04c2c62cce0dd35523ced Prayskey Ogbonna <prayskeyo@gmail.com> 1721619976 +0100	commit: program for first unique character
+1c0148fabe4f067fe2b04c2c62cce0dd35523ced 784595be3a67f420de6449ee0861f77719ff0d14 Prayskey Ogbonna <prayskeyo@gmail.com> 1721621183 +0100	commit: modifiy main js file
+784595be3a67f420de6449ee0861f77719ff0d14 57d07cd7a07daff36157f35f653b6919d5c9c665 Prayskey Ogbonna <prayskeyo@gmail.com> 1721621189 +0100	checkout: moving from main to 57d07cd
+57d07cd7a07daff36157f35f653b6919d5c9c665 2b1b3387e879b15d4bd663a5d66d175002b50bbd Prayskey Ogbonna <prayskeyo@gmail.com> 1721621355 +0100	commit: modify current file
+2b1b3387e879b15d4bd663a5d66d175002b50bbd 784595be3a67f420de6449ee0861f77719ff0d14 Prayskey Ogbonna <prayskeyo@gmail.com> 1721621399 +0100	checkout: moving from 2b1b3387e879b15d4bd663a5d66d175002b50bbd to main
+784595be3a67f420de6449ee0861f77719ff0d14 68b026c5c4b35266deecf0b3c90bd984ef11fcd3 Prayskey Ogbonna <prayskeyo@gmail.com> 1721632683 +0100	commit: commit changes
+68b026c5c4b35266deecf0b3c90bd984ef11fcd3 9dca4305f06dd3306aee0a3ee041e4c76d1f208b Prayskey Ogbonna <prayskeyo@gmail.com> 1722117488 +0100	commit: add files to code base
+9dca4305f06dd3306aee0a3ee041e4c76d1f208b 9dca4305f06dd3306aee0a3ee041e4c76d1f208b Prayskey Ogbonna <prayskeyo@gmail.com> 1722118574 +0100	checkout: moving from main to nav-bar
+9dca4305f06dd3306aee0a3ee041e4c76d1f208b ce4ca0b66b3c368033ce0e2eceb18179c4e0aec1 Prayskey Ogbonna <prayskeyo@gmail.com> 1722130435 +0100	commit: add files to code base
+ce4ca0b66b3c368033ce0e2eceb18179c4e0aec1 d6ae1e370cbef040265eb65f64eb90e6cbedbd3b Prayskey Ogbonna <prayskeyo@gmail.com> 1722130483 +0100	commit: modify main js file
+d6ae1e370cbef040265eb65f64eb90e6cbedbd3b 9dca4305f06dd3306aee0a3ee041e4c76d1f208b Prayskey Ogbonna <prayskeyo@gmail.com> 1722130530 +0100	checkout: moving from nav-bar to main
+9dca4305f06dd3306aee0a3ee041e4c76d1f208b d6ae1e370cbef040265eb65f64eb90e6cbedbd3b Prayskey Ogbonna <prayskeyo@gmail.com> 1722130634 +0100	checkout: moving from main to nav-bar
+d6ae1e370cbef040265eb65f64eb90e6cbedbd3b 9dca4305f06dd3306aee0a3ee041e4c76d1f208b Prayskey Ogbonna <prayskeyo@gmail.com> 1722130722 +0100	checkout: moving from nav-bar to main
+9dca4305f06dd3306aee0a3ee041e4c76d1f208b d6ae1e370cbef040265eb65f64eb90e6cbedbd3b Prayskey Ogbonna <prayskeyo@gmail.com> 1722130734 +0100	merge nav-bar: Fast-forward
+d6ae1e370cbef040265eb65f64eb90e6cbedbd3b 7211f9c5234a0105e1dbbc9997499d6e6fc5623f Prayskey Ogbonna <prayskeyo@gmail.com> 1722136342 +0100	commit: add paragraph to code base
+7211f9c5234a0105e1dbbc9997499d6e6fc5623f a2f69b6ed026020d1bd42d7a0e51cdc281e47b00 Prayskey Ogbonna <prayskeyo@gmail.com> 1722136452 +0100	commit: add unordered list to code base
+a2f69b6ed026020d1bd42d7a0e51cdc281e47b00 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722136587 +0100	commit: add changes to code base
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722155582 +0100	checkout: moving from main to bugfix
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722155977 +0100	checkout: moving from bugfix to main
+637f53c1c9a327a8e239317b21f7be980b175bb6 f089866c53c102c7ce1c8bea582addca01aa9de4 Prayskey Ogbonna <prayskeyo@gmail.com> 1722156023 +0100	checkout: moving from main to f089866
+f089866c53c102c7ce1c8bea582addca01aa9de4 4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d Prayskey Ogbonna <prayskeyo@gmail.com> 1722156083 +0100	checkout: moving from f089866c53c102c7ce1c8bea582addca01aa9de4 to 4497c67
+4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722156113 +0100	checkout: moving from 4497c67528f4c4020b8cb7d2a2dfcb6a6be9394d to main
+637f53c1c9a327a8e239317b21f7be980b175bb6 b8fcf76e8a0e9e1c94caea58f94881e981749e45 Prayskey Ogbonna <prayskeyo@gmail.com> 1722165896 +0100	commit: delete python file from code base
+b8fcf76e8a0e9e1c94caea58f94881e981749e45 472f2ee9ee4ac8c4e3419455a4e16a84676bbc69 Prayskey Ogbonna <prayskeyo@gmail.com> 1722166725 +0100	checkout: moving from main to 472f2ee
+472f2ee9ee4ac8c4e3419455a4e16a84676bbc69 b8fcf76e8a0e9e1c94caea58f94881e981749e45 Prayskey Ogbonna <prayskeyo@gmail.com> 1722170735 +0100	checkout: moving from 472f2ee9ee4ac8c4e3419455a4e16a84676bbc69 to main
+b8fcf76e8a0e9e1c94caea58f94881e981749e45 9e35cd4cdb5e124f3a6e9203c84e3fc7d0764230 Prayskey Ogbonna <prayskeyo@gmail.com> 1722172640 +0100	commit: add files to code base
+9e35cd4cdb5e124f3a6e9203c84e3fc7d0764230 39956080f87fb58ff8c7bbb1aac6ab4523da26d6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722174663 +0100	commit: modify main js file
+39956080f87fb58ff8c7bbb1aac6ab4523da26d6 7f28fd84f6774382571817e8e7ad20db69d7911d Prayskey Ogbonna <prayskeyo@gmail.com> 1722178091 +0100	commit: modify main js file
+7f28fd84f6774382571817e8e7ad20db69d7911d 925008323e6043dfcce9d862e9e62f157f33fce2 Prayskey Ogbonna <prayskeyo@gmail.com> 1722185302 +0100	commit: add class for car
+925008323e6043dfcce9d862e9e62f157f33fce2 130d4ac4aff214d11a469717ca5d057a2025aba8 Prayskey Ogbonna <prayskeyo@gmail.com> 1722185345 +0100	commit: create a table in index file
+130d4ac4aff214d11a469717ca5d057a2025aba8 130d4ac4aff214d11a469717ca5d057a2025aba8 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186519 +0100	reset: moving to HEAD
+130d4ac4aff214d11a469717ca5d057a2025aba8 130d4ac4aff214d11a469717ca5d057a2025aba8 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186591 +0100	reset: moving to HEAD
+130d4ac4aff214d11a469717ca5d057a2025aba8 130d4ac4aff214d11a469717ca5d057a2025aba8 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186682 +0100	reset: moving to HEAD
+130d4ac4aff214d11a469717ca5d057a2025aba8 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722186733 +0100	commit: modify main js file
+3c0980a603f8295fc80790322fc524c39529338a 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186748 +0100	checkout: moving from main to bugfix
+637f53c1c9a327a8e239317b21f7be980b175bb6 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722186838 +0100	checkout: moving from bugfix to main
+3c0980a603f8295fc80790322fc524c39529338a 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186881 +0100	checkout: moving from main to bugfix
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186895 +0100	reset: moving to HEAD
+637f53c1c9a327a8e239317b21f7be980b175bb6 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722186923 +0100	checkout: moving from bugfix to main
+3c0980a603f8295fc80790322fc524c39529338a 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186948 +0100	checkout: moving from main to bugfix
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186964 +0100	reset: moving to HEAD
+637f53c1c9a327a8e239317b21f7be980b175bb6 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722186970 +0100	checkout: moving from bugfix to main
+3c0980a603f8295fc80790322fc524c39529338a 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722186994 +0100	checkout: moving from main to bugfix
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187004 +0100	reset: moving to HEAD
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187065 +0100	reset: moving to HEAD
+637f53c1c9a327a8e239317b21f7be980b175bb6 637f53c1c9a327a8e239317b21f7be980b175bb6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187179 +0100	reset: moving to HEAD
+637f53c1c9a327a8e239317b21f7be980b175bb6 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722187189 +0100	checkout: moving from bugfix to main
+3c0980a603f8295fc80790322fc524c39529338a 0000000000000000000000000000000000000000 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187620 +0100	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722187620 +0100	Branch: renamed refs/heads/main to refs/heads/master
+3c0980a603f8295fc80790322fc524c39529338a 0000000000000000000000000000000000000000 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187636 +0100	Branch: renamed refs/heads/master to refs/heads/bugfix
+0000000000000000000000000000000000000000 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722187636 +0100	Branch: renamed refs/heads/master to refs/heads/bugfix
+3c0980a603f8295fc80790322fc524c39529338a 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722187681 +0100	checkout: moving from bugfix to main
+3c0980a603f8295fc80790322fc524c39529338a 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722187706 +0100	checkout: moving from main to bugfix
+3c0980a603f8295fc80790322fc524c39529338a 0000000000000000000000000000000000000000 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187733 +0100	Branch: renamed refs/heads/bugfix to refs/heads/main
+0000000000000000000000000000000000000000 3c0980a603f8295fc80790322fc524c39529338a Prayskey Ogbonna <prayskeyo@gmail.com> 1722187733 +0100	Branch: renamed refs/heads/bugfix to refs/heads/main
+3c0980a603f8295fc80790322fc524c39529338a 6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187860 +0100	commit: commit changes
+6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187873 +0100	checkout: moving from main to bugfix
+6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722187937 +0100	checkout: moving from bugfix to master
+6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 728aa3839becc6298f397f93646068a57a75382f Prayskey Ogbonna <prayskeyo@gmail.com> 1722187987 +0100	commit: commit changes
+728aa3839becc6298f397f93646068a57a75382f 6f2c0d32f2103f39f0d03c3cf2c7d25e546252e6 Prayskey Ogbonna <prayskeyo@gmail.com> 1722188098 +0100	checkout: moving from master to main
+                                                                                                                                                                     
