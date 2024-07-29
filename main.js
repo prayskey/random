@@ -1003,7 +1003,4 @@ function max_depth(root){
   }
 }
 
-console.log("Hello World!")
-(function(){
-  if(true)console.log("True")
-})
+
