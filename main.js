@@ -1002,5 +1002,3 @@ function max_depth(root){
     return Math.max(left_depth, right_depth) + 1;
   }
 }
-
-
