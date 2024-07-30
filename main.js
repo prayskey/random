@@ -996,8 +996,8 @@ function max_depth(root){
     return 0;
   }else {
     //Recursively find the maximum depth of the of both the left and the right node
-    let left_depth = maxDepth(root.left);
-    let right_depth = maxDepth(root.right);
+    let left_depth = max_depth(root.left);
+    let right_depth = max_depth(root.right);
 
     return Math.max(left_depth, right_depth) + 1;
   }
